@@ -27,7 +27,7 @@ public class TicketCalculator {
       ticketPrice = ticketPrice;
     }
 
-    // Display the discounted price
+    // Display the discounted price given the age the user entered
     System.out.println("Please your ticket price is: " + ticketPrice);
 
     // Close the scanner
